@@ -1,0 +1,4 @@
+docker login
+docker images
+docker tag tweetapi:dev hkarthikraj01/tweetapi
+docker push hkarthikraj01/tweetapi
